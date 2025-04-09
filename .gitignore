@@ -1,1 +1,15 @@
 backend/node_modules
+backend/.env
+backend/logs
+backend/*.log
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/pids
+backend/*.pid
+backend/*.pid.lock
+backend/coverage
+backend/dist
+backend/.eslintcache
+backend/.nyc_output
+backend/.cache
